@@ -1,0 +1,70 @@
+.header{
+    margin-top: 50px
+}
+
+.container{
+width: 969px;
+margin-left: 358px;
+margin-right: 125px;
+
+}
+
+
+.nav-li{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nav-ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    /* padding-left: 7px; */
+    justify-content: space-between;
+}
+.nav-link{
+    text-decoration: none;
+}
+
+.denik{
+    margin-left: 350px;
+    margin-top: 55px;
+}
+
+.sarlavha{
+    margin-left: 635px;
+    margin-top: -60px;
+}
+
+.h20{
+margin-left: 925px;
+margin-top: -40px
+}
+
+.rasm1{
+    margin-left: 370px;
+}
+
+.text-h10{
+margin-left: 725px;
+}
+
+.hero-link{
+margin-left: 100px;
+margin-right: 100px;
+background: #F6F6F6;
+}
+
+.text23{
+    margin-left: 600px;
+}
+
+.text22{
+    margin-left: 600px;
+}
+
+.text25{
+    margin-left: 600px;
+}
